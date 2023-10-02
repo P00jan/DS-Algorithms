@@ -1,0 +1,5 @@
+What is array?
+    Arrays are basic data structure that stores values of same "Data type", 
+    so if you are storing integers you have to keep storing integers and you cannot store a string in it.
+In Python you have to import the module "array" to use array.
+We will do some problems to practice array and I will explain how I solved the problem.
