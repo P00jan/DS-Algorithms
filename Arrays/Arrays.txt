@@ -3,3 +3,15 @@ What is array?
     so if you are storing integers you have to keep storing integers and you cannot store a string in it.
 In Python you have to import the module "array" to use array.
 We will do some problems to practice array and I will explain how I solved the problem.
+
+Types of codes to create arrays are:
+Typecode	Type	                Minimum Size in Bytes
+‘b’	      Signed integer	                1
+‘B’	      Unsigned integer	                1
+‘i’	      Signed integer	                2
+‘I’	      Unsigned integer	                2
+‘1’	      Signed integer	                4
+‘L’	      Unsigned integer	                4
+‘f’	      Floating points	                4
+‘d’	      Double floating points (decimals)	8
+‘u’	      Unicode characters	            2
