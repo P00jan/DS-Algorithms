@@ -22,3 +22,14 @@ t2 = "bjckza"
 result2 = Solution.isSubsequence(s2,t2)
 print(f"S is the subsequence of T: {result2}")
 
+"""
+Output:
+S is the subsequence of T: True
+S is the subsequence of T: False
+
+Explanation:
+In the code we are trying to find each character in s in t by using the find function after that we are 
+putting condition if i == -1 which means if there is no character left in i it will automatically return false
+If the character is found it will go for the 2nd condition which will check till the last character and store it in t  
+"""
+
